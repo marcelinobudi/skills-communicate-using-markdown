@@ -16,3 +16,7 @@ while True:
 c, addr = s.accept()
 
 ```
+# Add task list
+- [x] keluar rumah
+- [ ] sapa tetangga
+- [ ] bermain bersama
